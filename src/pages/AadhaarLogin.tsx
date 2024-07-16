@@ -102,7 +102,7 @@ export default function Home() {
 						Verify your identity using Anon Aaadhar, click login!
 					</h2>
 					<LogInWithAnonAadhaar
-						nullifierSeed={1234}
+						nullifierSeed={4321}
 						fieldsToReveal={fieldsToReveal()}
 						// useTestAadhaar={true}
 						signal={address}
